@@ -24,4 +24,14 @@ The most innovative and ultimate criptocurrency, owned by majority users and eve
 * ~~Can send messages with micro transactions (each message costs 0.00000001)~~;
 * ~~Maximum withdrawal amount for address (like credit cards)~~;
 
+## Mining
+
+
+## Contributing
+For help me and the possible developers, you can donate any value to:
+
+1UVCMRj3Hc6s2hZGjEJtuCKHuQr9JVSwD
+
+<img width="100px" src="http://i.imgur.com/TDwgwEb.png"/>
+
 Note: features with text striked is because its not planned for the launch of system, but in future updates.
