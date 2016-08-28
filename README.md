@@ -16,7 +16,7 @@ The most innovative and ultimate criptocurrency, owned by majority users and eve
 * Built-in Smart Contracts feature;
 * Can do trusted Lottery drawing for donators' address;
 * Return UniverseCoins with NO FEE if wrong address;
-* Can do transaction from own address to another own address with NO FEE;
+* Can do transaction from own address to another own address with NO FEE (using privatekey);
 * Use heir address in case of death;
 * Verify if wallet owner is active (user need confirm each transaction within 10-day limit), else withdraw content to heir or random address;
 * No miss addresses: if no confirmation after transactions, address is available again;
