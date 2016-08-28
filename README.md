@@ -32,6 +32,6 @@ For help me and the possible developers, you can donate any value to:
 
 1UVCMRj3Hc6s2hZGjEJtuCKHuQr9JVSwD
 
-<img width="100px" src="http://i.imgur.com/TDwgwEb.png"/>
+<img width="250px" src="http://i.imgur.com/TDwgwEb.png"/>
 
 Note: features with text striked is because its not planned for the launch of system, but in future updates.
