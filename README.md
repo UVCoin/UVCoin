@@ -30,7 +30,7 @@ The most innovative and ultimate criptocurrency, owned by majority users and eve
 ## Contributing
 For help me and the possible developers, you can donate any value to:
 
-1UVCMRj3Hc6s2hZGjEJtuCKHuQr9JVSwD
+<a href="bitcoin:1UVCMRj3Hc6s2hZGjEJtuCKHuQr9JVSwD">1UVCMRj3Hc6s2hZGjEJtuCKHuQr9JVSwD</a>
 
 <img width="250px" src="http://i.imgur.com/TDwgwEb.png"/>
 
