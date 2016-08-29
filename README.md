@@ -23,7 +23,8 @@ The most innovative and ultimate criptocurrency, owned by majority users and eve
 * No miss addresses: if no confirmation after transactions (10 days), address is available again;
 * ~~Can send messages with micro transactions (each message costs 0.00000001)~~;
 * ~~Maximum withdrawal amount for address (like credit cards)~~;
-* [NEW] Transaction priority fees: the fee depends on the transaction priority low, medium or high;
+* ~~Can set the transaction priority~~;
+* ~~[NEW] Transaction priority fees: the fee depends on the transaction priority low, medium or high~~;
 
 ## Mining
 
